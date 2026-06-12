@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yeona</h1>
+<h1 align="center">Hi 👋, I'm Naim</h1>
 <h3 align="center">....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeonali&label=Profile%20views&color=0e75b6&style=flat" alt="yeonali" /> </p>

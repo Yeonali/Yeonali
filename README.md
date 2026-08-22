@@ -51,13 +51,5 @@
 </p>
 
 ---
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeonali&show_icons=true&hide_border=true&count_private=true" alt="Naim's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonali&layout=compact&hide_border=true" alt="Naim's Top Languages" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonali&layout=compact&hide_border=true" alt="Naim's Top Languages" />
 </p>

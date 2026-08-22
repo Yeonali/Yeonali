@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naim</h1>
-<h3 align="center">CSE Student | Developer | Coffee Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yeonali&label=Profile%20views&color=0e75b6&style=flat" alt="yeonali" />

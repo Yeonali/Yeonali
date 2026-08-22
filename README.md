@@ -54,14 +54,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeonali&show_icons=true&locale=en&hide_border=true" alt="yeonali" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeonali&show_icons=true&hide_border=true&count_private=true" alt="Naim's GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeonali&show_icons=true&locale=en&layout=compact&hide_border=true" alt="yeonali" />
-</p>
-
-<p align="center">
-  <i>Still figuring out what I'm doing, but the GitHub commits make it look intentional.</i>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonali&layout=compact&hide_border=true" alt="Naim's Top Languages" />
 </p>

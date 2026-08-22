@@ -51,5 +51,3 @@
 </p>
 
 ---
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonali&layout=compact&hide_border=true" alt="Naim's Top Languages" />
-</p>

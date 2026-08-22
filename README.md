@@ -10,10 +10,8 @@
 <h3 align="left">About me:</h3>
 
 <p align="left">
-  🎓 Computer Science & Engineering student<br>
-  💻 Interested in software development, data science & cloud technologies<br>
-  🌱 Currently learning and building projects<br>
-  ☕ Powered by coffee and questionable debugging decisions
+ <h1 align="center">Hi 👋, I'm Naim</h1>
+<h3 align="center">CSE student • coffee • books • F1 • code</h3>
 </p>
 
 ---

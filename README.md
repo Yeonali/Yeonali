@@ -10,7 +10,7 @@
 
 <p align="left">
  <h1 align="center">Hi 👋, I'm Naim</h1>
-<h3 align="center">CSE student • coffee • books • F1 • code</h3>
+
 </p>
 
 ---
